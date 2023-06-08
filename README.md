@@ -1,9 +1,8 @@
 demo地址：https://antv-l7-map-lqq-code.vercel.app/map
 
-1、支持时间搜索
-2、支持省级下钻
-3、悬浮预警
-
+1. Support time search
+2. Support provincial drilling
+3. Suspension warning
 <img width="1436" alt="image" src="https://user-images.githubusercontent.com/61107184/179145209-9cc930ba-a6e5-470e-9403-943a5dfb75ed.png">
 
 
