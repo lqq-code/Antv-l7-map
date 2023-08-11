@@ -1,4 +1,4 @@
-demo地址：https://antv-l7-map-lqq-code.vercel.app/map
+demo url：https://antv-l7-map-lqq-code.vercel.app/map
 
 1. Support time search
 2. Support provincial drilling
